@@ -137,3 +137,6 @@ ECharts支持标注标线的<a href="echarts.baidu.com/doc/example/map12.html" t
 可以捕获的用户交互和数据变化事件实现图表与外界的联动。<a href="doc/example/event.html" target="_blank">try this &raquo;</a>
 
 ![ECharts 个性化定制](doc/asset/img/example/mix3.png)
+
+
+定制高度个性化的产品。
